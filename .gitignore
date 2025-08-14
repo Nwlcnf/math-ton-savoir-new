@@ -1,0 +1,9 @@
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Env / secrets locaux
+.env
+*.local
+*.log
