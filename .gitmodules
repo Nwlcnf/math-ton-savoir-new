@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/Nwlcnf/math-ton-savoir-back.git
+[submodule "front"]
+	path = front
+	url = https://github.com/Nwlcnf/math-ton-savoir-front.git
